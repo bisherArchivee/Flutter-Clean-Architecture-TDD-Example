@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744361439511",
+    "project_id": "flutter-tdd-educationapp",
+    "storage_bucket": "flutter-tdd-educationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744361439511:android:08b3ad7fcf822f67b48752",
+        "android_client_info": {
+          "package_name": "com.dbestech.education_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_jJKrhRLJciqyD49Xwq3QmcXN4fJ2pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

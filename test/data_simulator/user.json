@@ -1,0 +1,12 @@
+{
+  "uid": "_uid",
+  "email": "_email",
+  "photoURL": "_photoURL",
+  "bio": "_bio",
+  "points": -1,
+  "displayName": "_displayName",
+  "groupIds": [],
+  "enrolledCoursesIds": [],
+  "following": [],
+  "followers": []
+}
